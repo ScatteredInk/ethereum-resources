@@ -2,13 +2,13 @@
 
 ## Standards
 
-**Ethereum Smart Contract Packaging Specification**
+### Ethereum Smart Contract Packaging Specification
 
 [Github](https://github.com/ethpm/ethpm-spec)
 
 [ERC #190](https://github.com/ethereum/EIPs/issues/190)
 
-**Truffle Contract Schema**
+### Truffle Contract Schema
 
 JSON schema for contract artifacts.
 
@@ -16,7 +16,7 @@ JSON schema for contract artifacts.
 
 ## Security
 
-**Oyente**
+### Oyente
 
 Contract tester using Z3.
 
@@ -37,7 +37,7 @@ Human-readable names for Ethereum addresses, IPFS and Swarm content hashes etc.
 
 ## Development Tools
 
-**Truffle**
+### Truffle
 
 [Docs](http://truffleframework.com/docs/)
 
@@ -45,11 +45,11 @@ Human-readable names for Ethereum addresses, IPFS and Swarm content hashes etc.
 
 [Github](https://github.com/trufflesuite)
 
-**Visual Studio Extension for Truffle**
+### Visual Studio Extension for Truffle
 
 [Github](https://github.com/trufflesuite/trufflevsix)
 
-**Trufflebox**
+### Trufflebox
 
 Boilerplate apps: Truffle, Webpack, React, uPort
 
