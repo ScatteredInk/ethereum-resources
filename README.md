@@ -53,3 +53,5 @@ Human-readable names for Ethereum addresses, IPFS and Swarm content hashes etc.
 
 Boilerplate apps: Truffle, Webpack, React, uPort
 
+[Github](https://truffle-box.github.io/)
+
