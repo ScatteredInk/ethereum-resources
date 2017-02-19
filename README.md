@@ -24,7 +24,7 @@ Contract tester using Z3.
 
 [Paper](http://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf)
 
-Consensys Smart Contract Best Practices
+### Consensys Smart Contract Best Practices
 
 [Github](https://github.com/ConsenSys/smart-contract-best-practices)
 
