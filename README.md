@@ -12,6 +12,12 @@ Human-readable names for Ethereum addresses, IPFS and Swarm content hashes etc.
 
 ## Development Tools
 
+### Solcover
+
+Soldity code coverage
+
+[Github](https://github.com/JoinColony/solcover)
+
 ### Truffle
 
 [Docs](http://truffleframework.com/docs/)
@@ -29,6 +35,13 @@ Human-readable names for Ethereum addresses, IPFS and Swarm content hashes etc.
 Boilerplate apps: Truffle, Webpack, React, uPort
 
 [Github](https://truffle-box.github.io/)
+
+### Zeppelin Solidity
+
+Library of smart contracts.
+
+[Github](https://github.com/OpenZeppelin/zeppelin-solidity)
+[Security patterns](https://medium.com/bitcorps-blog/onward-with-ethereum-smart-contract-security-97a827e47702#.y3kvdetbz)
 
 ## Oracles and data
 
