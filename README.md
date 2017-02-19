@@ -75,6 +75,12 @@ Contract tester using Z3.
 
 ## Standards
 
+### Ethereum Natural Specification Format
+
+Documentation for smart contracts using doxygen format.
+
+[Github](https://github.com/ethereum/wiki/wiki/Ethereum-Natural-Specification-Format)
+
 ### Ethereum Smart Contract Packaging Specification
 
 [Github](https://github.com/ethpm/ethpm-spec)
