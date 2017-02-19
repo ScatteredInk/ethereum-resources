@@ -1,3 +1,5 @@
+# ethereum-resources
+
 ## Architecture
 
 ### Ethereum Name Service
@@ -71,8 +73,6 @@ Contract tester using Z3.
 JSON schema for contract artifacts.
 
 [Github](https://github.com/trufflesuite/truffle-contract-schema)
-
-# ethereum-resources
 
 ## Standards
 
