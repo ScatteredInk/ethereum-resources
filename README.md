@@ -69,6 +69,8 @@ Techniques for providing smart-contracts with off-chain data.
 Authenticity guarantees for off-chain data and computations. (Not an epistemoloogical/reputational solution - limited to tampering/transmission.)
 
 [Documentation](https://docs.oraclize.it/#datasources)
+
 [Github](https://github.com/oraclize/ethereum-bridge)
-Devcon 2 [talk](https://www.youtube.com/watch?v=9pDUobV8geI) [slides](https://ethereumfoundation.org/devcon/?session=39-a-provably-honest-oracle-model-auditable-offchain-data-gathering-computations)   
+
+Devcon 2 [talk](https://www.youtube.com/watch?v=9pDUobV8geI), [slides](https://ethereumfoundation.org/devcon/?session=39-a-provably-honest-oracle-model-auditable-offchain-data-gathering-computations)   
 
