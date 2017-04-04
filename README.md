@@ -43,6 +43,12 @@ Library of smart contracts.
 [Github](https://github.com/OpenZeppelin/zeppelin-solidity)
 [Security patterns](https://medium.com/bitcorps-blog/onward-with-ethereum-smart-contract-security-97a827e47702#.y3kvdetbz)
 
+### jsmnSol
+
+JSON parser for Solidity
+
+[Github](https://github.com/chrisdotn/jsmnSol)
+
 ## Oracles and data
 
 Techniques for providing smart-contracts with off-chain data.
@@ -59,6 +65,12 @@ Devcon 2 [talk](https://www.youtube.com/watch?v=9pDUobV8geI), [slides](https://e
 
 ## Security
 
+### Consensys Smart Contract Best Practices
+
+[Github](https://github.com/ConsenSys/smart-contract-best-practices)
+
+[Bibliography](https://github.com/ConsenSys/smart-contract-best-practices#smart-contract-security-bibliography)
+
 ### Oyente
 
 Contract tester using Z3.
@@ -66,12 +78,6 @@ Contract tester using Z3.
 [Github](https://github.com/ethereum/oyente)
 
 [Paper](http://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf)
-
-### Consensys Smart Contract Best Practices
-
-[Github](https://github.com/ConsenSys/smart-contract-best-practices)
-
-[Bibliography](https://github.com/ConsenSys/smart-contract-best-practices#smart-contract-security-bibliography)
 
 ## Standards
 
