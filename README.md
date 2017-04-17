@@ -10,11 +10,21 @@ Human-readable names for Ethereum addresses, IPFS and Swarm content hashes etc.
 
 [ERC #137](https://github.com/ethereum/EIPs/issues/137)
 
+## Best Practices
+
+Engineering section of Consensys' best practice's guide
+
+[Github](https://github.com/ConsenSys/smart-contract-best-practices#eng-techniques)
+
+Todd Baur, Solidity Patterns
+
+[Github](https://github.com/toadkicker/solidity-patterns)
+
 ## Development Tools
 
 ### Solcover
 
-Soldity code coverage
+Solidity code coverage
 
 [Github](https://github.com/JoinColony/solcover)
 
